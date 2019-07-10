@@ -1,4 +1,5 @@
-# Basic-openCv-operations-with-python
+# Basic openCv operations with Python programming
+<h2> Follow <a href="https://blog.paradisetechsoft.com/basics-of-open-cv/">our blog</a> for more details</h2>
 <h3>How to run this code:</h3>
 <ul>
 	<li>download this code from my GitHub</li>
